@@ -17,9 +17,12 @@
 
 
 ## NPM install:
-1. ```npm init```
+1. ```npm install```
 2. ```npm start``` - For Dev
-3. ```npm run package-win``` - For Windows Pakage
-4. ```npm run package-mac``` - For Mac Pakage
-5. ```npm run package-linux``` - For Linux Pakage
+OR
+2. ```npm run package-win``` - For Windows Pakage
+OR
+2. ```npm run package-mac``` - For Mac Pakage
+OR
+2. ```npm run package-linux``` - For Linux Pakage
 
