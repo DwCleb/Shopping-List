@@ -2,7 +2,7 @@
 
 **A basic ShoppingList.**
 
-##Functions:
+## Functions:
 
 1. Add items
   >Click in 'File' menu and select 'Add item'.
@@ -16,7 +16,7 @@
 ---
 
 
-##NPM install:
+## NPM install:
 1. ```npm init```
 2. ```npm start``` - For Dev
 3. ```npm run package-win``` - For Windows Pakage
